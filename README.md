@@ -1,3 +1,11 @@
 # Angry-Bird
 
-An experiment with Box 2D in an attempt to replicate the famous addictive game Angry-Birds
+An attempt to replicate the famous addictive game Angry-Birds using Box 2D.
+
+# Techniques
+
+● Box2D
+
+● Mouse Input
+
+● Trajectory prediction
